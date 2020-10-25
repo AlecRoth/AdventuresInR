@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>https://AdventuresInR.com/categories/</loc>
+    <loc>https://AdventuresInR.com/topics/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://AdventuresInR.com/categories/development/</loc>
+    <loc>https://AdventuresInR.com/topics/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://AdventuresInR.com/categories/golang/</loc>
+    <loc>https://AdventuresInR.com/topics/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
