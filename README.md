@@ -4,7 +4,7 @@ progress, bloggings, and other adventures in my favorite language, R.
 
 Blogdown by Alec Roth
 
-It is primarily based on the <blogdown> and <Hugo> framework, hosted on Netlify
+It is primarily based on the [blogdown] and [Hugo] framework, hosted on Netlify
 as AdventuresInR.com 
 
 This repo is part professional portfolio for myself, part blog where I detail 
