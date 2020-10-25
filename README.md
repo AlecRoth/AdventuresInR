@@ -1,6 +1,7 @@
 # AdventuresInR
 This is a static website for my website discussing statistics, study group
 progress, bloggings, and other adventures in my favorite language, R.
+
 Blogdown by Alec Roth
 
 It is primarily based on the <blogdown> and <Hugo> framework, hosted on Netlify
