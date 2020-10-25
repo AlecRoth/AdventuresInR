@@ -2,7 +2,7 @@ baseurl = "https://AdventuresInR.com/"  # Include trailing slash
 title = "AdventuresInR"
 theme = "newsroom"
 author = "Alec Roth"
-copyright = "Copyright © 2020, Alec Roth. All rights reserved.""
+copyright = "Copyright © 2020, Alec Roth. All rights reserved."
 canonifyurls = true
 paginate = 6
 
