@@ -14,3 +14,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/post/this-is-the-first-post-through-forestry.io.md
